@@ -1,9 +1,15 @@
-Enjoy the Free code + Assets 😍
+This project is a Shopsy clone built using React and Tailwind CSS, designed to replicate the look and feel of the original platform with a modern, responsive, and optimized UI.
 
-  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+🔹 Tech Stack
+React.js – For building a dynamic and interactive UI
+Tailwind CSS – For styling and responsive design
+React Router – For seamless navigation between pages
+Hooks & State Management – Efficient state handling with React Hooks
+🔹 Features
+✅ Fully responsive layout using Tailwind CSS
+✅ Home page with product listings
+✅ Category filtering for easy navigation
+✅ Shopping cart functionality (if implemented)
+✅ Clean and optimized code structure
 
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a great demonstration of frontend development skills using modern technologies. 🚀
